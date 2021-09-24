@@ -1,0 +1,17 @@
+.fundotit {
+    margin: auto;
+    background-color: darkgreen;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tit {
+    margin: 0;
+    font-size: 30pt;
+    color: moccasin;
+    font-family: Arial;
+    text-align: center;
+    font-weight: 600;
+}

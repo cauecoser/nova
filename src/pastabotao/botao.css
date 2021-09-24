@@ -1,0 +1,12 @@
+#botao {
+    width: 100px;
+    height: 40px;
+    padding: 5px;
+    border: solid;
+    border-color: darkgreen;
+    background-color:lightgreen;
+    font-size: 15pt;
+    border-radius: 5px;
+    color: moccasin;
+    margin: auto;
+}
